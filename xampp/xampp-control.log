@@ -1,0 +1,82 @@
+20:59:10  [main] 	Initializing Control Panel
+20:59:10  [main] 	Windows Version:  Enterprise  64-bit
+20:59:10  [main] 	XAMPP Version: 7.2.34
+20:59:10  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+20:59:10  [main] 	You are not running with administrator rights! This will work for
+20:59:10  [main] 	most application stuff but whenever you do something with services
+20:59:10  [main] 	there will be a security dialogue or things will break! So think 
+20:59:10  [main] 	about running this application with administrator rights!
+20:59:10  [main] 	XAMPP Installation Directory: "c:\users\alex_\documents\github\proyectoalejandroreyes\xampp\"
+20:59:10  [main] 	Checking for prerequisites
+20:59:11  [main] 	All prerequisites found
+20:59:11  [main] 	Initializing Modules
+20:59:11  [mysql] 	XAMPP MySQL is already running on port 3306
+20:59:11  [main] 	Starting Check-Timer
+20:59:11  [main] 	Control Panel Ready
+20:59:13  [Apache] 	Attempting to start Apache app...
+20:59:13  [Apache] 	Status change detected: running
+20:59:50  [Apache] 	Status change detected: stopped
+20:59:50  [Apache] 	Error: Apache shutdown unexpectedly.
+20:59:50  [Apache] 	This may be due to a blocked port, missing dependencies, 
+20:59:50  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+20:59:50  [Apache] 	Press the Logs button to view error logs and check
+20:59:50  [Apache] 	the Windows Event Viewer for more clues
+20:59:50  [Apache] 	If you need more help, copy and post this
+20:59:50  [Apache] 	entire log window on the forums
+20:59:51  [mysql] 	Status change detected: stopped
+20:59:51  [mysql] 	Error: MySQL shutdown unexpectedly.
+20:59:51  [mysql] 	This may be due to a blocked port, missing dependencies, 
+20:59:51  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+20:59:51  [mysql] 	Press the Logs button to view error logs and check
+20:59:51  [mysql] 	the Windows Event Viewer for more clues
+20:59:51  [mysql] 	If you need more help, copy and post this
+20:59:51  [mysql] 	entire log window on the forums
+20:59:54  [main] 	Deinitializing Modules
+20:59:54  [main] 	Deinitializing Control Panel
+
+20:59:47  [main] 	Initializing Control Panel
+20:59:47  [main] 	Windows Version:  Enterprise  64-bit
+20:59:47  [main] 	XAMPP Version: 7.2.34
+20:59:47  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+20:59:47  [main] 	You are not running with administrator rights! This will work for
+20:59:47  [main] 	most application stuff but whenever you do something with services
+20:59:47  [main] 	there will be a security dialogue or things will break! So think 
+20:59:47  [main] 	about running this application with administrator rights!
+20:59:47  [main] 	XAMPP Installation Directory: "c:\users\alex_\documents\github\proyectoalejandroreyes\xampp\"
+20:59:47  [main] 	Checking for prerequisites
+20:59:47  [main] 	All prerequisites found
+20:59:47  [main] 	Initializing Modules
+20:59:47  [Apache] 	XAMPP Apache is already running on port 80
+20:59:47  [Apache] 	XAMPP Apache is already running on port 443
+20:59:47  [mysql] 	XAMPP MySQL is already running on port 3306
+20:59:47  [main] 	Starting Check-Timer
+20:59:47  [main] 	Control Panel Ready
+20:59:50  [Apache] 	Attempting to stop Apache (PID: 9492)
+20:59:50  [Apache] 	Attempting to stop Apache (PID: 23592)
+20:59:50  [Apache] 	Status change detected: stopped
+20:59:51  [mysql] 	Attempting to stop MySQL app...
+20:59:51  [mysql] 	Status change detected: stopped
+21:01:00  [main] 	Deinitializing Modules
+21:01:00  [main] 	Deinitializing Control Panel
+
+21:01:03  [main] 	Initializing Control Panel
+21:01:03  [main] 	Windows Version:  Enterprise  64-bit
+21:01:03  [main] 	XAMPP Version: 7.2.34
+21:01:03  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:01:03  [main] 	You are not running with administrator rights! This will work for
+21:01:03  [main] 	most application stuff but whenever you do something with services
+21:01:03  [main] 	there will be a security dialogue or things will break! So think 
+21:01:03  [main] 	about running this application with administrator rights!
+21:01:03  [main] 	XAMPP Installation Directory: "c:\users\alex_\documents\github\proyectoalejandroreyes\xampp\"
+21:01:03  [main] 	Checking for prerequisites
+21:01:03  [main] 	All prerequisites found
+21:01:03  [main] 	Initializing Modules
+21:01:03  [main] 	Starting Check-Timer
+21:01:03  [main] 	Control Panel Ready
+21:01:05  [Apache] 	Attempting to start Apache app...
+21:01:05  [Apache] 	Status change detected: running
+21:01:05  [mysql] 	Attempting to start MySQL app...
+21:01:05  [mysql] 	Status change detected: running
+21:10:03  [main] 	Deinitializing Modules
+21:10:03  [main] 	Deinitializing Control Panel
+

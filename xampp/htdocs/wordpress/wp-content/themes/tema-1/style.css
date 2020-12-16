@@ -1,0 +1,33 @@
+/*
+Theme Name: Tema-1
+Author: Alejandro Reyes
+*/
+
+
+.screen-reader-text{
+  display: none;
+}
+
+/*Animaciones*/
+.portada{
+  transition: all 500ms;
+}
+.portada:hover{
+  box-shadow: 0px 0px 50px #008cba;
+  transform: scale(1.1);
+}
+
+/* Estilo de barra de busqueda */
+.botonbusqueda > div > form > div{
+  display: flex;
+}
+.botonbusqueda > div > form > div > input{
+  margin: 0px !important;
+}
+#searchsubmit{
+  margin-left: 4px !important;
+  background-color: seagreen;
+}
+body{
+  min-height: 100vh !important;
+}

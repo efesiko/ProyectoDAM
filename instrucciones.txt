@@ -1,0 +1,2 @@
+Desde xampp-control.exe en la carpeta raiz se inicia el servidor, iniciamos Apache y MySQL.
+ http://localhost/wordpress/ para ver la página.
